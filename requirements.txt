@@ -1,4 +1,5 @@
 streamlit==1.11.1
 sklearn
+xgboost
 pandas
 numpy
